@@ -1,0 +1,11 @@
+h1 {
+    font-size: 22px;
+}
+
+table {
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}

@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-XLSX-Reader"
+    }
+  },
+  "defaultProject": "Angular-XLSX-Reader",
+  "cli": {
+    "analytics": "c358b5f5-b0f2-4884-8992-48b2e316003a"
+  }
 }
