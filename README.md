@@ -2,7 +2,9 @@
     Angular XLSX Reader
 </h1>
 
-A simple XLSX reader created in Angular. | Um simples leitor de XLSX criado em Angular.
+<p align="center">
+  A simple XLSX reader created in Angular. | Um simples leitor de XLSX criado em Angular.
+</p>
 
 <p align="center">
   <kbd>
